@@ -8,9 +8,9 @@ The code was written in Python 3.11.4. Poetry was used to manage the dependencie
 
 To install the project:
 
-    ```bash
-    make install
-    ```
+```bash
+make install
+```
 
 Then you need to put the data in the `data` folder at the root of the project.
 
