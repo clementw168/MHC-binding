@@ -17,4 +17,4 @@ Then you need to put the data in the `data` folder at the root of the project.
 ## Usage
 
 Data visualization and analysis is done in the notebook `data_exploration.ipynb`.
-The models are trained and analysed in the notebook `main.ipynb`.
+The method, the model and the results are explained in `main.ipynb`.
